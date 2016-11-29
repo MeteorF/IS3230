@@ -1,0 +1,3 @@
+cd desktop/IS3230_L05_3 Presentation
+javac IS3230_L05_3.java
+java IS3230_L05_3 1900-01-01 2014-12-31
